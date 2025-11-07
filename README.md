@@ -1,17 +1,16 @@
-<h1 align="center">Hola, soy Alexis Valencia 👋</h1>
+<h1 align="center">Hi!, I'm Duvan Alexis Valencia Munca👋</h1>
 
 <p align="center">
-  <strong>Frontend Developer | JavaScript | React | TypeScript</strong>
+  <strong>React | JavaScript | Flutter | TypeScript | CSS (less, sass, stylus)</strong>
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🧑‍💻 About me
 
-- Actualmente trabajo como: **Frontend Developer**  
-- Experiencia en: React, JavaScript, TypeScript, UI/UX, APIs REST  
-- Me enfoco en crear interfaces modernas, rápidas y mantenibles.  
-- Abierto a oportunidades y retos que me permitan crecer profesionalmente.
+I'm Sotware Engineer and Graphic Designer with <b>around 10 years</b>.<br>
+I also have hands-on experience working with BE technologies such as PHP, Mysql, SQL, GraphQL and GO. <br>
+I'm interested in create applications following the best practices, clean code and with focus in the performance and create applications attractive and focused the user experience following design patterns.
 
 ---
 
