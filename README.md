@@ -14,22 +14,18 @@ I'm interested in create applications following the best practices, clean code a
 
 ---
 
-## 🚀 Tecnologías y herramientas
+## 🚀 Tech and Tools
 
-Aquí puedes agregar tus badges:
+I'm focus in FE technologies such as
 
 <p align="left">
 
 <!-- Lenguajes -->
-<img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" />
-<img src="https://skillicons.dev/icons?i=typescript" width="40" height="40" />
-
-<!-- Frameworks -->
 <img src="https://skillicons.dev/icons?i=react" width="40" height="40" />
-<img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=typescript" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" />
 <img src="https://skillicons.dev/icons?i=vue" width="40" height="40" />
 
-<!-- Estilos -->
 <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" />
 <img src="https://skillicons.dev/icons?i=sass" width="40" height="40" />
 
@@ -37,10 +33,17 @@ Aquí puedes agregar tus badges:
 <img src="https://skillicons.dev/icons?i=vite" width="40" height="40" />
 <img src="https://skillicons.dev/icons?i=git" width="40" height="40" />
 <img src="https://skillicons.dev/icons?i=github" width="40" height="40" />
-<img src="https://skillicons.dev/icons?i=figma" width="40" height="40" />
 
 </p>
 
+I also have experience working with Design tools such as
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=illustrator" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=figma" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=photoshop" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=blender" width="40" height="40" />
+</p>
 ---
 
 ## 📌 Proyectos destacados
