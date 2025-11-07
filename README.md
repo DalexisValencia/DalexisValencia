@@ -59,7 +59,7 @@ And finally I also have hands-on experience working with BE languages such as
 
 ## 📌 Highlight Projects
 
-### 🔹 Proyecto 1 — *Find your restaurant*
+### 🔹 Project 1 — *Find your restaurant*
 - This app is useful to find restaurants near to the user's area. 
   - The user can book the restaurant.
   - The user can rate every plate and every restaurant.
@@ -67,12 +67,12 @@ And finally I also have hands-on experience working with BE languages such as
 - 👉 [Demo](#)  
 - 📦 [Repositorio](https://github.com/DalexisValencia/Fifth-test-app_Restaurants)
 
-### 🔹 Proyecto 2 — *SHAR*
+### 🔹 Project 2 — *SHAR*
 - SHAR is a real hydraulic company with a lot of products. <br />
   This app is a e-commerce that allow the user search buy hydraulic products in a easy way. <br />
   <i>This app was built as a college protect.</i>
 - Flutter, Dart, Bloc for State managment  
-- 👉 [Demo]([#](https://play.google.com/store/apps/details?id=test.munka.shar.one))  
+- 👉 [Demo](https://play.google.com/store/apps/details?id=test.munka.shar.one)  
 - 📦 [Repositorio](https://github.com/DalexisValencia/app-shar)
 - 📌 [Figma](https://www.figma.com/design/A69N3nWv4cl0kZonv4qMTX/SHAR-App?node-id=601-12&p=f&t=AmjC7XcGzPrn24sT-0)
 
@@ -87,7 +87,7 @@ And finally I also have hands-on experience working with BE languages such as
 ---
 
 
-## 📚 Actualmente aprendiendo
+## 📚 Learning
 
 - React avanced.
 - TypeScript avanced.
