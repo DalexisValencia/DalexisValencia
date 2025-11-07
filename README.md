@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About me
 
-I'm Sotware Engineer and Graphic Designer with <b>around 10 years</b>.<br>
+I'm Sotware Engineer and Graphic Designer with <b>around 10 years</b>. My current English level is B1+ (Constantly Improving)<br> 
 I also have hands-on experience working with BE technologies such as PHP, Mysql, SQL, GraphQL and GO. <br>
 I'm interested in create applications following the best practices, clean code and with focus in the performance and create applications attractive and focused the user experience following design patterns.
 
