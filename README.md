@@ -44,6 +44,17 @@ I also have experience working with Design tools such as
 <img src="https://skillicons.dev/icons?i=photoshop" width="40" height="40" />
 <img src="https://skillicons.dev/icons?i=blender" width="40" height="40" />
 </p>
+
+And finally I also have hands-on experience working with BE languages such as
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=php" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=go" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=sql" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" />
+</p>
+
 ---
 
 ## 📌 Proyectos destacados
