@@ -42,6 +42,7 @@ I also have experience working with Design tools such as
 <img src="https://skillicons.dev/icons?i=illustrator" width="40" height="40" />
 <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" />
 <img src="https://skillicons.dev/icons?i=photoshop" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=aftereffects" width="40" height="40" />
 <img src="https://skillicons.dev/icons?i=blender" width="40" height="40" />
 </p>
 
@@ -51,48 +52,44 @@ And finally I also have hands-on experience working with BE languages such as
 <img src="https://skillicons.dev/icons?i=php" width="40" height="40" />
 <img src="https://skillicons.dev/icons?i=go" width="40" height="40" />
 <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" />
-<img src="https://skillicons.dev/icons?i=sql" width="40" height="40" />
 <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" />
 </p>
 
 ---
 
-## 📌 Proyectos destacados
+## 📌 Highlight Projects
 
-### 🔹 Proyecto 1 — *Nombre del proyecto*
-- Breve descripción
-- Tecnologías utilizadas  
+### 🔹 Proyecto 1 — *Find your restaurant*
+- This app is useful to find restaurants near to the user's area. 
+  - The user can book the restaurant.
+  - The user can rate every plate and every restaurant.
+- Flutter, Dart, Bloc for State managment
 - 👉 [Demo](#)  
-- 📦 [Repositorio](#)
+- 📦 [Repositorio](https://github.com/DalexisValencia/Fifth-test-app_Restaurants)
 
-### 🔹 Proyecto 2 — *Nombre del proyecto*
-- Breve descripción
-- Tecnologías utilizadas  
-- 👉 [Demo](#)  
-- 📦 [Repositorio](#)
+### 🔹 Proyecto 2 — *SHAR*
+- SHAR is a real hydraulic company with a lot of products. <br />
+  This app is a e-commerce that allow the user search buy hydraulic products in a easy way. <br />
+  <i>This app was built as a college protect.</i>
+- Flutter, Dart, Bloc for State managment  
+- 👉 [Demo]([#](https://play.google.com/store/apps/details?id=test.munka.shar.one))  
+- 📦 [Repositorio](https://github.com/DalexisValencia/app-shar)
+- 📌 [Figma](https://www.figma.com/design/A69N3nWv4cl0kZonv4qMTX/SHAR-App?node-id=601-12&p=f&t=AmjC7XcGzPrn24sT-0)
 
 ---
 
-## 🌐 Conecta conmigo
+## 🌐 My Social Network
 
 - 🌎 **Portfolio:** https://tu-portfolio.com  
-- 💼 **LinkedIn:** https://linkedin.com/in/tuusuario  
-- 🐙 **GitHub:** https://github.com/tuusuario  
-- ✉️ **Email:** tuemail@correo.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/dalexismunca/ 
+- ✉️ **Email:** d.alexis.valencia@gmail.com
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&hide_border=true" />
-</p>
-
----
 
 ## 📚 Actualmente aprendiendo
 
-- React avanzado  
-- TypeScript a profundidad  
-- Patrones de arquitectura FE  
+- React avanced.
+- TypeScript avanced.
+- FE architecture patterns.
+- English B1+ - B2+
