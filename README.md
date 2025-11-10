@@ -74,7 +74,7 @@ And finally I also have hands-on experience working with BE languages such as
   - The user can rate every plate and every restaurant.
 - Flutter, Dart, Bloc for State managment
 - 👉 [Demo](#)  
-- 📦 [Repositorio](https://github.com/DalexisValencia/Fifth-test-app_Restaurants)
+- 📦 [Repositorio](https://github.com/DalexisValencia/Find-Ur-Restaurant)
 
 ---
 
