@@ -4,8 +4,6 @@
   <strong>React | JavaScript | Flutter | TypeScript | CSS (less, sass, stylus) | Node.js | Python | Laravel </strong>
 </p>
 
----
-
 ## 🧑‍💻 About me
 
 I'm Sotware Engineer and Graphic Designer with <b>over 10 years</b> working as a Software Developer. Therefore, I have experiece building, designing and working with moderm JavaScript. I have built several projects such as E-commerces, SPA, Mobile Applications, Desktop application, and content gestors focusing mainly in accesibility, architecture, hight-quality code, good practices, and clean code. 
@@ -31,7 +29,6 @@ Regarding with Graphic designer experience I have created designs and flows usin
       </p>
       <p><b>Tech:</b> Python</p>
       <p>- 📦 <a href="https://github.com/DalexisValencia/ai-interview-coach">Repository</p>
-      <p> 📌 Figma: N/A</p>
       <br>
       </td>
     </tr>
@@ -59,7 +56,6 @@ Regarding with Graphic designer experience I have created designs and flows usin
           <br />
         </p>
         <p><b>Tech:</b> Flutter, Dart, Bloc</p>
-        <p> 👉 Demo: N/A</p>
         <p> 📦 <a href="https://github.com/DalexisValencia/Find-Ur-Restaurant">Repository</p>
         <br>
       </td>
