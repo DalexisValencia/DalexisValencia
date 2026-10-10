@@ -23,35 +23,36 @@ Regarding with Graphic designer experience I have created designs and flows usin
 <table>
   <tr>
     <td width="50%" style="padding: 16px; border: 1px solid #30363d; border-radius: 8px; background-color: #161b22;">
-      <h3>🚀 Project 1 — <i>*AI Interview Coach*</i></h3>
+      <h3>🚀 Project 1 — <i>AI Interview Coach</i></h3>
       <p> A python command-line application for practicing job interviews and improving English anwsers. <br /><br />
         The first phase supports technical, behavioral, and leadership questions. <br />
         This application evaluates each anwsers through a configurable evaluator and generates a summary report.
         <br />
       </p>
       <p><b>Tech:</b> Python</p>
-      <p>- 📦 [Repository](https://github.com/DalexisValencia/app-shar](https://github.com/DalexisValencia/ai-interview-coach)</p>
+      <p>- 📦 <a href="https://github.com/DalexisValencia/app-shar](https://github.com/DalexisValencia/ai-interview-coach">Repository</p>
       <p> 📌 Figma: N/A</p>
+      <br>
+      <br>
     </td>
     </tr>
     <tr>
       <td width="50%" style="padding: 16px; border: 1px solid #30363d; border-radius: 8px; background-color: #161b22;">
-      <h3>🛒 Project 2 — <i>SHAR</i></h3>
-      <p>An e-commerce app to search and buy hydraulic products easily.</p>
-      <p><b>Tech:</b> Flutter, Dart, Bloc</p>
-      <p><a href="https://github.com">👉 Demo</a> &nbsp;|&nbsp; <a href="https://github.com">📦 Repository</a></p>
-    </td>
-  </tr>
+        <h3>🛒 Project 2 — <i>SHAR</i></h3>
+        <p> 
+            SHAR is a real hydraulic company with a lot of products. <br />
+            This app is a e-commerce that allow the user search buy hydraulic products in a easy way. <br />
+            <i>This app was built as a college protect.</i>
+        </p>
+        <p><b>Tech:</b> Flutter, Dart, Bloc</p>
+        <p><a href="https://github.com](https://play.google.com/store/apps/details?id=test.munka.shar.one">👉 Demo</a> </p>
+        <p><a href="https://github.com](https://github.com/DalexisValencia/app-shar">📦 Repository</a></p>
+        <p><a href="https://github.com](https://www.figma.com/design/A69N3nWv4cl0kZonv4qMTX/SHAR-App?node-id=601-12&p=f&t=AmjC7XcGzPrn24sT-0">📦 Figma</a></p>
+        <br>
+        <br>
+      </td>
+    </tr>
 </table>
-
-### 🔹 Project 2 — *SHAR*
-- SHAR is a real hydraulic company with a lot of products. <br />
-  This app is a e-commerce that allow the user search buy hydraulic products in a easy way. <br />
-  <i>This app was built as a college protect.</i>
-- Flutter, Dart, Bloc for State managment  
-- 👉 [Demo](https://play.google.com/store/apps/details?id=test.munka.shar.one)  
-- 📦 [Repository](https://github.com/DalexisValencia/app-shar)
-- 📌 [Figma](https://www.figma.com/design/A69N3nWv4cl0kZonv4qMTX/SHAR-App?node-id=601-12&p=f&t=AmjC7XcGzPrn24sT-0)
 
 ### 🔹 Project 2 — *Find your restaurant*
 - This app is useful to find restaurants near to the user's area. 
