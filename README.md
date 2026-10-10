@@ -8,11 +8,43 @@
 
 ## 🧑‍💻 About me
 
-I'm Sotware Engineer and Graphic Designer with <b>over 10 years</b> working as a Software Developer. Therefore, I have experiece building, designing and developing several projects such as E-commerces, SPA, Mobile Applications, Desktop application, and content gestors. 
+I'm Sotware Engineer and Graphic Designer with <b>over 10 years</b> working as a Software Developer. Therefore, I have experiece building, designing and working with moderm JavaScript. I have built several projects such as E-commerces, SPA, Mobile Applications, Desktop application, and content gestors focusing mainly in accesibility, architecture, hight-quality code, good practices, and clean code. 
 <br>
-My current English level is B1+ (Constantly Improving)<br> 
-I also have hands-on experience working with BE technologies such as PHP, Mysql, SQL, GraphQL and GO. <br>
-I'm interested in create applications following the best practices, clean code and with focus in the performance and create applications attractive and focused the user experience following design patterns.
+<br>
+Even thought my main focus and experience is as a Frontend developer I also have hands-on experience working with Backend technologies such as PHP, Mysql, SQL, GraphQL, GO, NodeJs, and Python.
+<br>
+<br>
+Regarding with Graphic designer experience I have created designs and flows using Figma, Illustrator, and Photoshop.
+
+---
+
+## 📌 Highlight Projects
+
+### 🔹 Project 1 — *AI Interview Coach*
+- A python command-line application for practicing job interviews and improving English anwsers. <br /><br />
+  The first phase supports technical, behavioral, and leadership questions. <br />
+  This application evaluates each anwsers through a configurable evaluator and generates a summary report.
+  <br />
+- Python 
+- 📦 [Repository]([https://github.com/DalexisValencia/app-shar](https://github.com/DalexisValencia/ai-interview-coach))
+- 📌 Figma: N/A
+
+### 🔹 Project 2 — *SHAR*
+- SHAR is a real hydraulic company with a lot of products. <br />
+  This app is a e-commerce that allow the user search buy hydraulic products in a easy way. <br />
+  <i>This app was built as a college protect.</i>
+- Flutter, Dart, Bloc for State managment  
+- 👉 [Demo](https://play.google.com/store/apps/details?id=test.munka.shar.one)  
+- 📦 [Repository](https://github.com/DalexisValencia/app-shar)
+- 📌 [Figma](https://www.figma.com/design/A69N3nWv4cl0kZonv4qMTX/SHAR-App?node-id=601-12&p=f&t=AmjC7XcGzPrn24sT-0)
+
+### 🔹 Project 2 — *Find your restaurant*
+- This app is useful to find restaurants near to the user's area. 
+  - The user can book the restaurant.
+  - The user can rate every plate and every restaurant.
+- Flutter, Dart, Bloc for State managment
+- 👉 [Demo](#)  
+- 📦 [Repository](https://github.com/DalexisValencia/Find-Ur-Restaurant)
 
 ---
 
@@ -56,27 +88,6 @@ And finally I also have hands-on experience working with BE languages such as
 <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" />
 <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" />
 </p>
-
----
-
-## 📌 Highlight Projects
-
-### 🔹 Project 1 — *SHAR*
-- SHAR is a real hydraulic company with a lot of products. <br />
-  This app is a e-commerce that allow the user search buy hydraulic products in a easy way. <br />
-  <i>This app was built as a college protect.</i>
-- Flutter, Dart, Bloc for State managment  
-- 👉 [Demo](https://play.google.com/store/apps/details?id=test.munka.shar.one)  
-- 📦 [Repositorio](https://github.com/DalexisValencia/app-shar)
-- 📌 [Figma](https://www.figma.com/design/A69N3nWv4cl0kZonv4qMTX/SHAR-App?node-id=601-12&p=f&t=AmjC7XcGzPrn24sT-0)
-
-### 🔹 Project 2 — *Find your restaurant*
-- This app is useful to find restaurants near to the user's area. 
-  - The user can book the restaurant.
-  - The user can rate every plate and every restaurant.
-- Flutter, Dart, Bloc for State managment
-- 👉 [Demo](#)  
-- 📦 [Repositorio](https://github.com/DalexisValencia/Find-Ur-Restaurant)
 
 ---
 
