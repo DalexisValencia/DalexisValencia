@@ -22,7 +22,7 @@ Regarding with Graphic designer experience I have created designs and flows usin
 
 <table>
   <tr>
-    <td width="100%" style="padding: 25px; border: 1px solid #30363d; border-radius: 8px; background-color: #161b22;">
+    <td width="100%" style="padding: 25px; padding-left:40px; border: 1px solid #30363d; border-radius: 8px; background-color: #161b22;">
       <h3>🚀 Project 1 — <i>AI Interview Coach</i></h3>
       <p> A python command-line application for practicing job interviews and improving English anwsers. <br /><br />
         The first phase supports technical, behavioral, and leadership questions. <br />
@@ -61,21 +61,24 @@ Regarding with Graphic designer experience I have created designs and flows usin
           <br />
         </p>
         <p><b>Tech:</b> Flutter, Dart, Bloc</p>
+        <p> 👉 Demo: N/A</p>
         <p> 📦 <a href="https://github.com/DalexisValencia/Find-Ur-Restaurant">Repository</p>
-        <p> 📌 Figma: N/A</p>
         <br>
         <br>
       </td>
     </tr>
 </table>
 
-### 🔹 Project 2 — **
-  
-- 
-- 👉 [Demo](#)  
-- 📦 [Repository]()
+---
+
+
+## 🌐 My Social Network
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/dalexismunca/ 
+- ✉️ **Email:** duvanvalenciamunca@gmail.com
 
 ---
+
 
 ## 🚀 Tech and Tools
 
@@ -118,20 +121,4 @@ And finally I also have hands-on experience working with BE languages such as
 <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" />
 </p>
 
----
 
-## 🌐 My Social Network
-
-- 🌎 **Portfolio:** https://tu-portfolio.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/dalexismunca/ 
-- ✉️ **Email:** d.alexis.valencia@gmail.com
-
----
-
-
-## 📚 Learning
-
-- React avanced.
-- TypeScript avanced.
-- FE architecture patterns.
-- English B1+ - B2+
