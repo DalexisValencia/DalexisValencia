@@ -22,7 +22,7 @@ Regarding with Graphic designer experience I have created designs and flows usin
 
 <table>
   <tr>
-    <td width="100%" style="padding: 25px; padding-left:40px; border: 1px solid #30363d; border-radius: 8px; background-color: #161b22;">
+    <td width="100%" style="padding: 25px; border: 1px solid #30363d; border-radius: 8px; background-color: #161b22;">
       <h3>🚀 Project 1 — <i>AI Interview Coach</i></h3>
       <p> A python command-line application for practicing job interviews and improving English anwsers. <br /><br />
         The first phase supports technical, behavioral, and leadership questions. <br />
@@ -32,7 +32,6 @@ Regarding with Graphic designer experience I have created designs and flows usin
       <p><b>Tech:</b> Python</p>
       <p>- 📦 <a href="https://github.com/DalexisValencia/ai-interview-coach">Repository</p>
       <p> 📌 Figma: N/A</p>
-      <br>
       <br>
       </td>
     </tr>
@@ -49,7 +48,6 @@ Regarding with Graphic designer experience I have created designs and flows usin
         <p>📦 <a href="https://github.com/DalexisValencia/app-shar">Repository</a></p>
         <p>📌 <a href="https://www.figma.com/design/A69N3nWv4cl0kZonv4qMTX/SHAR-App?node-id=601-12&p=f&t=AmjC7XcGzPrn24sT-0"> Figma</a></p>
         <br>
-        <br>
       </td>
     </tr>
     <tr>
@@ -64,61 +62,12 @@ Regarding with Graphic designer experience I have created designs and flows usin
         <p> 👉 Demo: N/A</p>
         <p> 📦 <a href="https://github.com/DalexisValencia/Find-Ur-Restaurant">Repository</p>
         <br>
-        <br>
       </td>
     </tr>
 </table>
-
----
-
 
 ## 🌐 My Social Network
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/dalexismunca/ 
 - ✉️ **Email:** duvanvalenciamunca@gmail.com
-
----
-
-
-## 🚀 Tech and Tools
-
-I'm focus in FE technologies such as
-
-<p align="left">
-
-<!-- Lenguajes -->
-<img src="https://skillicons.dev/icons?i=react" width="40" height="40" />
-<img src="https://skillicons.dev/icons?i=typescript" width="40" height="40" />
-<img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" />
-<img src="https://skillicons.dev/icons?i=vue" width="40" height="40" />
-
-<img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" />
-<img src="https://skillicons.dev/icons?i=sass" width="40" height="40" />
-
-<!-- Herramientas -->
-<img src="https://skillicons.dev/icons?i=vite" width="40" height="40" />
-<img src="https://skillicons.dev/icons?i=git" width="40" height="40" />
-<img src="https://skillicons.dev/icons?i=github" width="40" height="40" />
-
-</p>
-
-I also have experience working with Design tools such as
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=illustrator" width="40" height="40" />
-<img src="https://skillicons.dev/icons?i=figma" width="40" height="40" />
-<img src="https://skillicons.dev/icons?i=photoshop" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=aftereffects" width="40" height="40" />
-<img src="https://skillicons.dev/icons?i=blender" width="40" height="40" />
-</p>
-
-And finally I also have hands-on experience working with BE languages such as
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=php" width="40" height="40" />
-<img src="https://skillicons.dev/icons?i=go" width="40" height="40" />
-<img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" />
-<img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" />
-</p>
-
 
